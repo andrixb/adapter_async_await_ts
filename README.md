@@ -29,7 +29,7 @@ yarn start
 
 ## Usage
 ### Interfaces
-```
+```typescript
 // IComplexPayload.interface.ts
 export default interface IComplexPayload {
     status: string;
@@ -87,7 +87,7 @@ export default interface IMockPayload {
 ```
 
 ### Adapter
-```
+```typescript
 import IComplexPayload from '../interfaces/IComplexPayload.interface';
 import IMockPayload from '../interfaces/IMockPayload.interface';
 
@@ -110,7 +110,7 @@ export default complexPayloadAdapter;
 ```
 
 ### Service
-```
+```typescript
 import IMockPayload from '../interfaces/IMockPayload.interface';
 import payload from '../mocks/mock.payload.json';
 
@@ -132,7 +132,7 @@ export default httpService;
 ```
 
 ### Main App
-```
+```typescript
 import httpService from './services/httpService';
 import complexPayloadAdapter from './adapters/complexPayloadAdapter';
 
