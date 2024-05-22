@@ -137,8 +137,6 @@ import httpService from './services/httpService';
 import complexPayloadAdapter from './adapters/complexPayloadAdapter';
 
 const mainApp: () => void = async () => {
-    console.log('hola');
-
     // Initialize the service
     const service = httpService();
 
