@@ -1,0 +1,82 @@
+{
+  "result": [
+    {
+      "status": "active",
+      "name": {
+        "first": "Anastacio",
+        "middle": "Logan",
+        "last": "Goldner"
+      },
+      "username": "Anastacio-Goldner",
+      "password": "CubLWD3dsy9lA0W",
+      "emails": ["Xzavier.Lehner98@example.com", "Braden28@example.com"],
+      "phoneNumber": "362-467-7156 x8841",
+      "location": {
+        "street": "860 Satterfield Mills",
+        "city": "North Ciara",
+        "state": "Maine",
+        "country": "Mexico",
+        "zip": "00235-0580",
+        "coordinates": {
+          "latitude": 28.9341,
+          "longitude": -14.7092
+        }
+      },
+      "website": "https://unfinished-scrutiny.info",
+      "domain": "alert-soap.name",
+      "job": {
+        "title": "Product Accounts Supervisor",
+        "descriptor": "Chief",
+        "area": "Security",
+        "type": "Coordinator",
+        "company": "Dare - Flatley"
+      },
+      "creditCard": {
+        "number": "3673-130266-8775",
+        "cvv": "042",
+        "issuer": "discover"
+      },
+      "uuid": "b2354081-f5eb-49bc-b200-ee725c472b3a",
+      "objectId": "664dbfe5fd830b5d3a301ab9"
+    },
+    {
+      "status": "disabled",
+      "name": {
+        "first": "Cory",
+        "middle": "Jules",
+        "last": "Dibbert"
+      },
+      "username": "Cory-Dibbert",
+      "password": "GknArMOYTWglPsY",
+      "emails": ["Davin.Kerluke@example.com", "Hillard_Zemlak@gmail.com"],
+      "phoneNumber": "506-640-6057",
+      "location": {
+        "street": "693 Dayana Mountains",
+        "city": "Ignacioton",
+        "state": "Wyoming",
+        "country": "Colombia",
+        "zip": "48208",
+        "coordinates": {
+          "latitude": -62.9181,
+          "longitude": 167.5037
+        }
+      },
+      "website": "https://enlightened-gap.com/",
+      "domain": "dead-trolley.name",
+      "job": {
+        "title": "Investor Operations Producer",
+        "descriptor": "Direct",
+        "area": "Group",
+        "type": "Orchestrator",
+        "company": "Reilly and Sons"
+      },
+      "creditCard": {
+        "number": "3704-649460-95973",
+        "cvv": "387",
+        "issuer": "jcb"
+      },
+      "uuid": "b5f9033d-b04a-4b18-81ce-22cc8e1dd837",
+      "objectId": "664dbfe5fd830b5d3a301aba"
+    }
+  ]
+}
